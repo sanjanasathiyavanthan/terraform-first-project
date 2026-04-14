@@ -46,7 +46,4 @@ terraform apply
 
 
 
-\## How to Destroy
-
-terraform destroy
 
