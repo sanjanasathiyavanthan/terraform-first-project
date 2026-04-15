@@ -1,8 +1,8 @@
-\# Terraform First Project
+\Terraform First Project
 
 
 
-This is my first Terraform project.
+This is my first Terraform project. I had used ChatGPT to help me create a prompt
 
 
 
@@ -16,7 +16,7 @@ It uses the Docker provider to:
 
 
 
-\## Tools Used
+\Tools Used:
 
 \- Terraform
 
@@ -24,7 +24,7 @@ It uses the Docker provider to:
 
 
 
-\## Files
+\Files
 
 \- `main.tf` - Terraform configuration
 
@@ -32,7 +32,7 @@ It uses the Docker provider to:
 
 
 
-\## How to Run
+\ How to Run
 
 
 
