@@ -2,7 +2,7 @@ Terraform First Project
 
 
 
-This is my first Terraform project. I had used ChatGPT to help me create a prompt
+This is my first Terraform project.
 
 
 
